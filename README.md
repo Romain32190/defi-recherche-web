@@ -102,3 +102,25 @@ Quels sont les communautés de développeurs à Toulouse et quels sont leurs pro
 
 
 
+Quels sont les prochains rendez-vous tech de Toulouse ?
+-
+
+
+Qui est Aaron Swartz ?
+-
+
+Aaron Swartz est un informaticien américain,écrivain, meneur poilitique et militant de l'internet.
+
+
+<https://fr.wikipedia.org/wiki/Aaron_Swartz>
+
+
+Qu’est-ce que le projet GNU ?
+-
+
+
+Quelles sont les différences entre le Http et le Https ?
+-
+
+
+
