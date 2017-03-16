@@ -1,6 +1,3 @@
-*** Code Mardown ***
-*********************
-
 Recherche internet !
 ==
 
@@ -24,13 +21,7 @@ Internet est le réseau informatique mondial, c'est l'infrastructure globale,bas
 <https://www.miximum.fr/blog/quelle-est-la-difference-entre-web-et-internet/>
 
 
-Qu’est-ce que cela :
-
-8.8.8.8
-192.168.0.1
-255.255.255.0
-127.0.0.1
-
+Qu’est-ce que cela :8.8.8.8 192.168.0.1 255.255.255.0 127.0.0.1
 -
 
 
@@ -70,6 +61,11 @@ Creative Commons est une organisation à but non lucratif dont le but est de pro
 
 Qui est Grace Hopper ?
 -
+
+Grace Hopper eté une informaticienne américaine et Rear admiral(lower half) de la marine américaine. Elle est la conceptrice du premier compilateur en 1951(A-0 System) et du langage COBOL en 1959.
+
+
+<https://fr.wikipedia.org/wiki/Grace_Hopper>
 
 
 
