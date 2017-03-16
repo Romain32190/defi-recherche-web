@@ -170,6 +170,11 @@ Marissa Mayer est une informaticienne et chef d'entreprise américaine.Elle occu
 Qu’est-ce qu’une attaque “brute force” ?
 -
 
+L'attaque par force brute est une méthode utilisée en cryptanalyse pour trouver un mot de passe ou une clé. Il s'agit de tester,une à une, les combinaisons possibles.
+
+
+<https://fr.wikipedia.org/wiki/Attaque_par_force_brute>
+
 
 
 
