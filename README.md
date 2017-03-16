@@ -161,6 +161,11 @@ Les bangs de DuckDuckGo permet d'effctuer des requêtes redirigeant vers d'autre
 Qui est Marissa Mayer ?
 -
 
+Marissa Mayer est une informaticienne et chef d'entreprise américaine.Elle occupe de 2012 à 2017 le poste de PDG de Yahoo après 13 ans chez Google en tant que vice-présidente responsable des services de cartographie et géolocalisation.
+
+
+<https://fr.wikipedia.org/wiki/Marissa_Mayer>
+
 
 Qu’est-ce qu’une attaque “brute force” ?
 -
