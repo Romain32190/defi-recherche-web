@@ -286,4 +286,32 @@ Le load balancing (répartition de charge en français) est une technique utilis
 <http://www.dicodunet.com/definitions/reseaux/load-balancing.htm>
 
 
+Qu’est-ce que l’Open Source ?
+-
+
+L'Open Source Definition (« définition de l'open source ») détermine les conditions nécessaires pour qu'une licence soit considérée comme libre par l'Open Source Initiative. Elle est publiée sur le site de l'OSI avec une liste de licences approuvées.
+
+
+<https://fr.wikipedia.org/wiki/Open_Source_Definition>
+
+
+Qu’est-ce que le Bug Bounty ?
+-
+
+
+
+Qu'est-ce qu'une adresse IP v4 ?
+-
+
+
+
+Pourquoi parle-t-on aussi d'adresse IP v6 ?
+-
+
+
+
+Combien coûte un serveur pour héberger mon site perso ?
+-
+
+
 
