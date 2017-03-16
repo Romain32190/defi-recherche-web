@@ -244,6 +244,11 @@ La souris a été inventée en 1963 par Douglas Engelbart du Stanford Research I
 Qui est Margaret Hamilton ?
 -
 
+Margaret Hamilton est une informaticienne et mathématicienne. Elle était directrice du département génie logiciel (« software engineering », terme de son invention1) du MIT Instrumentation Laboratory qui conçut le système embarqué du programme Apollo2.
+
+
+<https://fr.wikipedia.org/wiki/Margaret_Hamilton_(scientifique)>
+
 
 
 Retrouvez le code source de la mission Apollo 11.
