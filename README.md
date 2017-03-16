@@ -234,6 +234,11 @@ Les Hackers sont-ils des hors-la-loi ?
 Qui a inventé la souris ?
 -
 
+La souris a été inventée en 1963 par Douglas Engelbart du Stanford Research Institute et présentée au public en 1968.
+
+
+<https://fr.wikipedia.org/wiki/Souris_(informatique)>
+
 
 
 Qui est Margaret Hamilton ?
