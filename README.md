@@ -139,4 +139,29 @@ Https est l'initiale d'Hypertext Transfert protocol Secure. Il s'agit d'un mode 
 <http://www.definitions-marketing.com/definition/https/>
 
 
+Qui est Richard Stallman ?
+-
+
+Richard Stallman est un programmeur et militant du logiciel libre. Initiateur du mouvement du logiciel libre, il lance,en 1983,le projet GNU  et la licence publique générale GNU connue aussi sous l'acronyme GPL. Il a popularisé le terme anglais copyleft. Programmeur renommé de la communauté informatique américaine et internationale, il a développé de nombreux logiciels.
+
+
+<https://fr.wikipedia.org/wiki/Richard_Stallman>
+
+
+
+
+Comment fonctionnent les bang de Duck Duck Go ?
+-
+
+
+Qui est Marissa Mayer ?
+-
+
+
+Qu’est-ce qu’une attaque “brute force” ?
+-
+
+
+
+
 
