@@ -25,14 +25,13 @@ Internet est le réseau informatique mondial, c'est l'infrastructure globale,bas
 
 
 Qu’est-ce que cela :
--
-
 
 8.8.8.8
 192.168.0.1
 255.255.255.0
 127.0.0.1
 
+-
 
 
 Le 8.8.8.8 est le dns 
@@ -60,6 +59,11 @@ Le copyleft est une méthode générale pour rendre libre un programme(ou tout a
 
 Que sont les Creatives Commons ?
 -
+
+Creative Commons est une organisation à but non lucratif dont le but est de proposer une solution alternative légale aux personnes souhaitant libérer leur oeuvres des droits de propriété intellectuelle standard de leur pays, jugés trop restrictifs.
+
+
+<https://fr.wikipedia.org/wiki/Creative_Commons>
 
 
 
