@@ -127,5 +127,16 @@ Le projet GNU a été démarré en septembre 1983 par Richard M. afin de créer 
 Quelles sont les différences entre le Http et le Https ?
 -
 
+Http signifie Hypertext Transfer Protocol. Ce protocole définie la communication entre un client et un serveur sur le world wide Web.
+
+
+<http://glossaire.infowebmaster.fr/http/>
+
+
+Https est l'initiale d'Hypertext Transfert protocol Secure. Il s'agit d'un mode de sécurisation technique des données échangées entre le serveur visité et les internautes.
+
+
+<http://www.definitions-marketing.com/definition/https/>
+
 
 
