@@ -454,6 +454,14 @@ Comment sont reliés les différents réseaux d'internet ?
 -
 
 Qu’est-ce que KISS ?
+-
+
+Kisekae Set System (KiSS) est un logiciel originellement conçu pour permettre la création de poupée mannequin virtuelles.
+
+Kisekae est le diminutif de kisekae ningyou, terme japonais signifiant « poupées à habiller ». Contrairement aux arts numériques qui ne font qu’utiliser l’informatique pour créer ou présenter de l’art traditionnel à l’aide d’un ordinateur, KiSS utilise l’ordinateur comme un médium ; il permet à l’art d’être animé et interactif.
+
+
+https://fr.wikipedia.org/wiki/Kisekae_Set_System
 
 
 
