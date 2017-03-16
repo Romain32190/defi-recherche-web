@@ -343,6 +343,11 @@ Codage Cowboy est le développement de logiciels où les programmeurs ont une au
 Quelles sont les langages de programmation les plus plébiscités aujourd'hui ?
 -
 
+JavaScript, Java, PHP, voici donc les trois langages les plus plébiscités. Suivent Python, C#, C++, Ruby, CSS, C et Objective-C.
+
+
+<http://fr.ubergizmo.com/2016/08/01/javascript-langage-le-plus-populaire.html>
+
 
 
 Quelles sont les différences entre un software open-source et un software free ?
