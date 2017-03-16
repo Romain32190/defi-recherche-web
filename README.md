@@ -365,6 +365,26 @@ comment gagnent-elles de l’argent ?
 -
 
 
+Qui est Phil Zimmermann ?
+-
+
+Philip Zimmermann est un scientifique américain, créateur du Pretty Good Privacy (PGP), le logiciel de chiffrement de courrier électronique le plus utilisé au monde.
+
+
+<https://fr.wikipedia.org/wiki/Philip_Zimmermann>
+
+
+
+Qu’est-ce que le W3C ?
+-
+
+
+Combien d’heures de vidéo sont mises en ligne chaque minute sur Youtube ?
+-
+
+
+Amine cherche un article qu'il a lu au sujet d'une personne qui évoque la difficulté de planifier précisément le développement en utilisant une métaphore d'une personne organisant une grande marche pour rejoindre un ami, situé à plusieurs centaines de kilomètres. Il aurait lu cet article sur Quora. Retrouvez cet article et lisez-le :)
+Que sont les White Hat et les Black Hat ?
 
 
 
