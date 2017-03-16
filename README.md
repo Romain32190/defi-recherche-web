@@ -269,6 +269,8 @@ La Manifeste agile est un texte rédigé par 17 experts du développement d'appl
 Trouvez un screenshot de la première version de Facebook
 -
 
+![FACEBOOK]("http://blog.shareaholic.com/wp-content/uploads/2012/05/Facebook-Screenshot-2004.jpg")
+
 
 Quelle est la répartition des systèmes d'exploitation pour les serveurs (uniquement) ?
 -
