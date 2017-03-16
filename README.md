@@ -353,6 +353,10 @@ JavaScript, Java, PHP, voici donc les trois langages les plus plébiscités. Sui
 Quelles sont les différences entre un software open-source et un software free ?
 -
 
+Le mouvement du logiciel libre et le mouvement open source sont comme deux partis politiques à l'intérieur de la communauté du logiciel libre.
+
+
+https://www.gnu.org/philosophy/free-software-for-freedom.fr.html
 
 
 Trouvez trois entreprises qui développent des solutions Free & OpenSource
