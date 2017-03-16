@@ -420,6 +420,7 @@ https://fr.wikipedia.org/wiki/Attaque_par_d%C3%A9ni_de_service
 Quelles est l'adresse MAC de votre ordinateur ?
 -
 
+5C:26:0A:1F:D6:76
 
 
 Et de votre smartphone ?
