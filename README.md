@@ -204,12 +204,44 @@ Un client vous envoyer des emails automatiquement depuis son site web (contact, 
 -
 
 
+
 Quelle est votre adress IP actuelle ?
 -
 
 
 
+
+
 Et celle de votre smartphone ?
+-
+
+
+
+Qu’est-ce que le développement en cycle V ?
+-
+
+Le modèle du cycle en V (en comparaison avec les méthodes dites agiles) est un modèle conceptuel de gestion de projet imaginé à la suite du problème de réactivité du modèle en cascade. Il permet, en cas d'anomalie, de limiter un retour aux étapes précédentes. Les phases de la partie montante doivent renvoyer de l'information sur les phases en vis-à-vis lorsque des défauts sont détectés, afin d'améliorer le logiciel.
+
+
+<https://fr.wikipedia.org/wiki/Cycle_en_V>
+
+
+Les Hackers sont-ils des hors-la-loi ?
+-
+
+
+
+Qui a inventé la souris ?
+-
+
+
+
+Qui est Margaret Hamilton ?
+-
+
+
+
+Retrouvez le code source de la mission Apollo 11.
 -
 
 
