@@ -176,6 +176,33 @@ L'attaque par force brute est une méthode utilisée en cryptanalyse pour trouve
 <https://fr.wikipedia.org/wiki/Attaque_par_force_brute>
 
 
+Qui est Linus Torvalds ?
+Quels sont ses plus grands développements ?
+-
 
+Linus Trovalds est un informaticien américano-finlandais.Il est connu pour avoir crée en 1991 le noyau linux dont il continue de diriger le dévellopement. Il en est considéré comme le dictateur bienveillant.
+
+
+<https://fr.wikipedia.org/wiki/Linus_Torvalds>
+
+
+
+Combien coûte un nom de domaine ?
+-
+
+
+
+Quels sont les différents services d'emailing disponibles ?
+Un client vous envoyer des emails automatiquement depuis son site web (contact, confirmation...), quel service allez-vous utiliser et pourquoi ?
+-
+
+
+Quelle est votre adress IP actuelle ?
+-
+
+
+
+Et celle de votre smartphone ?
+-
 
 
