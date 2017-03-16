@@ -387,6 +387,11 @@ Le W3C est un sigle utilisé pour définir le World Wide Web Consortium qui est 
 Combien d’heures de vidéo sont mises en ligne chaque minute sur Youtube ?
 -
 
+Chaque minute, 400h de vidéos sont uploadées sur youtube!
+
+
+<http://www.webrankinfo.com/dossiers/youtube/chiffres-statistiques#gref>
+
 
 Amine cherche un article qu'il a lu au sujet d'une personne qui évoque la difficulté de planifier précisément le développement en utilisant une métaphore d'une personne organisant une grande marche pour rejoindre un ami, situé à plusieurs centaines de kilomètres. Il aurait lu cet article sur Quora. Retrouvez cet article et lisez-le :)
 Que sont les White Hat et les Black Hat ?
