@@ -118,6 +118,11 @@ Aaron Swartz est un informaticien américain,écrivain, meneur poilitique et mil
 Qu’est-ce que le projet GNU ?
 -
 
+Le projet GNU a été démarré en septembre 1983 par Richard M. afin de créer un système d'exploitation complet utilisant du logiciel libre.Le dévelopement du logiciel a débuté en janvier de l'année suivante.De nos jours, il existe plusieurs systèmes d'exploitations libres qui respectent les libertés des utilisateurs en donnant à tout le monde le droit d'utiliser, étudier, partager, et améliorer le logiciel.
+
+
+<https://fsfe.org/freesoftware/basics/gnuproject.fr.html>
+
 
 Quelles sont les différences entre le Http et le Https ?
 -
