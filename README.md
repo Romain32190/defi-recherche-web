@@ -411,6 +411,10 @@ Que sont les White Hat et les Black Hat ?
 Qu’est-ce qu’une attaque DDoS ?
 -
 
+Une attaque par déni de service est une attaque informatique ayant pour but de rendre indisponible un service, d'empêcher les utilisateurs légitimes d'un service de l'utiliser.
+
+
+https://fr.wikipedia.org/wiki/Attaque_par_d%C3%A9ni_de_service
 
 
 Quelles est l'adresse MAC de votre ordinateur ?
