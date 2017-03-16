@@ -90,7 +90,10 @@ Steve Wozniak est un informaticien, professeur d'informatique et électronicien 
 D'où vient l'expression "bug informatique" ?
 -
 
+L'utilisation du mot bug pour désigner le dysfonctionnement d'un ordinateur aurait trouvé son origine dans les années 40. En s'introduisant dans les gros relais, les insectes causaient des bugs.
 
+
+http://www.presse-citron.net/anecdote-connaissez-vous-lorigine-du-bug-informatique/
 
 
 Quels sont les communautés de développeurs à Toulouse et quels sont leurs prochains évènements ?
