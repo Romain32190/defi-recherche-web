@@ -397,5 +397,32 @@ Amine cherche un article qu'il a lu au sujet d'une personne qui évoque la diffi
 Que sont les White Hat et les Black Hat ?
 
 
+Que sont les White Hat et les Black Hat ?
+-
+
+ White Hat consiste à optimiser le site sans utiliser d’artifices. Le contenu est la priorité, tandis qu’on essaie de le rendre le plus visible dans les moteurs de recherche. Il s’agit plus d’une stratégie à long terme : du bon contenu obtiendra toujours, tôt ou tard, de nombreux liens et, donc, un bon classement.
+
+ black hat, c’est le côté obscur de la Force, visant à obtenir d’excellents classements en très peu de temps. Cela signifie utiliser des méthodes interdites par les moteurs de recherche. Par exemple du texte invisible (caché par une image ou de la même couleur que le fond), ou utiliser des scripts qui vont afficher un contenu différent, suivant que le visiteur soit un robot ou un humain : la page indexée est donc différente de la page vue par les internautes (cette technique est connue sous le terme cloaking) ! Les référenceurs black hat utilisent aussi des programmes-robots spammant les forums.
+
+
+ https://www.seo.fr/encyclopedie/seo-white-hat-seo-black-hat/
+
+
+Qu’est-ce qu’une attaque DDoS ?
+-
+
+
+
+Quelles est l'adresse MAC de votre ordinateur ?
+-
+
+
+
+Et de votre smartphone ?
+-
+
+
+
+
 
 
