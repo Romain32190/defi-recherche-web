@@ -318,7 +318,12 @@ Une adresse IPv4 est une adresse IP dans la version 4 du protocole IP (IPv4). Ce
 Pourquoi parle-t-on aussi d'adresse IP v6 ?
 -
 
-..
+Version 6 du protocole Internet, IPV6 est le successeur de la version actuelle (IPV4).
+
+
+http://www.dicodunet.com/definitions/reseaux/ipv6.htm
+
+
 
 Combien coûte un serveur pour héberger mon site perso ?
 -
