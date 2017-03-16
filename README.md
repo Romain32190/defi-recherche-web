@@ -378,6 +378,11 @@ Philip Zimmermann est un scientifique américain, créateur du Pretty Good Priva
 Qu’est-ce que le W3C ?
 -
 
+Le W3C est un sigle utilisé pour définir le World Wide Web Consortium qui est une organisation non lucrative permettant définir des standards pour les technologies liées aux web. Il est important de noter que du point de vue européen, les standards fournit par cet organisme ne sont que des recommandations et non des normes standardisés. Cela permet de guider les technologies du web dans une même direction sur le long terme et ainsi améliorer leur compatibilité. Par la même occasion cela permet de mettre en place des directives sur des sujets variées.
+
+
+<http://glossaire.infowebmaster.fr/w3c/>
+
 
 Combien d’heures de vidéo sont mises en ligne chaque minute sur Youtube ?
 -
