@@ -429,5 +429,31 @@ Et de votre smartphone ?
 F0:43:47:33:A0:7D
 
 
+Trouvez 5 entreprises qui recrutent sur Toulouse un développeur web junior
+-
+
+http://www.jobtic.fr/fr/emploi/developpeur-java-junior-h-f/60042?cid=indeed&utm_source=indeed&utm_medium=meta&utm_campaign=indeed&utm_source=Indeed&utm_medium=cpc&utm_campaign=Indeed
+
+
+https://www.indeed.fr/viewjob?jk=26a9e6d375e0130f&q=Developpeur+Junior&l=Toulouse+%2831%29&tk=1bbc6hvbm9ognb8j&from=web
+
+
+https://www.indeed.fr/viewjob?jk=723dd18a40727f7d&q=Developpeur+Junior&l=Toulouse+%2831%29&tk=1bbc6hvbm9ognb8j&from=web
+
+
+
+
+
+Qui est Tim Berners-Lee ?
+-
+
+
+
+Comment sont reliés les différents réseaux d'internet ?
+-
+
+Qu’est-ce que KISS ?
+
+
 
 
