@@ -21,8 +21,13 @@ Quelle est la différence entre le Web et Internet ?
 Internet est le réseau informatique mondial, c'est l'infrastructure globale,basé sur le protocole IP. Le web n'est qu'un des services accessible via internet. Ce qui veut dire que internet c'est le réseau et le web est un service.
 
 
+<https://www.miximum.fr/blog/quelle-est-la-difference-entre-web-et-internet/>
+
+
 Qu’est-ce que cela :
 -
+
+
 8.8.8.8
 192.168.0.1
 255.255.255.0
@@ -38,6 +43,17 @@ Le 8.8.8.8 est le dns
 
 Que sont le copyright et le copyleft ?
 -
+
+Le copyright est le droit que se réserve un auteur pour protéger l'exploitation, pendant un certains nombres d'années.
+
+
+<http://www.larousse.fr/dictionnaires/francais/copyright/19166>
+
+
+Le copyleft est une méthode générale pour rendre libre un programme(ou tout autre oeuvre) et obliger toutes les versions modifiées ou étendues de ce programme à être libres également.
+
+
+<https://www.gnu.org/licenses/copyleft.fr.html>
 
 
 
