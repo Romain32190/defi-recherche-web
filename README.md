@@ -298,17 +298,27 @@ L'Open Source Definition (« définition de l'open source ») détermine les con
 Qu’est-ce que le Bug Bounty ?
 -
 
+Un bug bounty est un programme proposé par de nombreux sites web et développeurs de logiciel qui permet à des personnes de recevoir reconnaissance et compensation après avoir reporté des bugs, surtout ceux concernant des exploits et des vulnérabilités. Ces programmes permettent aux développeurs de découvrir et de corriger des bugs avant que le grand public en soit informé, évitant ainsi des abus. Les bugs bounty ont été mis en place par Facebook, Yahoo!, Google, Reddit, et Square.
+
+
+<https://fr.wikipedia.org/wiki/Bug_bounty>
 
 
 Qu'est-ce qu'une adresse IP v4 ?
 -
+
+Une adresse IPv4 est une adresse IP dans la version 4 du protocole IP (IPv4). Cette adresse permet d'identifier chaque machine connectée sur un réseau informatique utilisant le protocole IP version 4.
+
+
+<http://www.techno-science.net/?onglet=glossaire&definition=10887>
+
 
 
 
 Pourquoi parle-t-on aussi d'adresse IP v6 ?
 -
 
-
+..
 
 Combien coûte un serveur pour héberger mon site perso ?
 -
