@@ -330,3 +330,32 @@ Combien coûte un serveur pour héberger mon site perso ?
 
 
 
+Qu’est-ce que le Cowboy coding ?
+-
+
+Codage Cowboy est le développement de logiciels où les programmeurs ont une autonomie sur le processus de développement. Cela comprend le contrôle du calendrier du projet, les langues, les algorithmes, les outils, les cadres et le style de codage.
+
+
+<https://en.wikipedia.org/wiki/Cowboy_coding>
+
+
+
+Quelles sont les langages de programmation les plus plébiscités aujourd'hui ?
+-
+
+
+
+Quelles sont les différences entre un software open-source et un software free ?
+-
+
+
+
+Trouvez trois entreprises qui développent des solutions Free & OpenSource
+comment gagnent-elles de l’argent ?
+-
+
+
+
+
+
+
