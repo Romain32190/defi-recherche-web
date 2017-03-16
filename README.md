@@ -57,8 +57,6 @@ Creative Commons est une organisation à but non lucratif dont le but est de pro
 <https://fr.wikipedia.org/wiki/Creative_Commons>
 
 
-
-
 Qui est Grace Hopper ?
 -
 
@@ -69,10 +67,13 @@ Grace Hopper eté une informaticienne américaine et Rear admiral(lower half) de
 
 
 
-
 Qu'est-ce que Qwant ?
 -
 
+Qwant est un moteur de recherche français, créé le 16 février 2013, puis lancé en version définitive le 4 juillet 2013. Il annonce ne pas tracer ses utilisateurs afin de garantir la vie privée, et se veut neutre dans l'affichage des résultats.
+
+
+<https://fr.wikipedia.org/wiki/Qwant>
 
 
 
