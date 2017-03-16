@@ -190,6 +190,13 @@ Linus Trovalds est un informaticien américano-finlandais.Il est connu pour avoi
 Combien coûte un nom de domaine ?
 -
 
+Selon le registrar et l’extension choisie de votre nom de domaine, le prix d’un NDD peut varier. En règle générale, il varie entre 6 et 15 euros. Par exemple chez OVH, le coût mensuel par mois au minimum est de 1,99 euros HT avec une capacité d’utilisation de 25 gigas octets et au maximum, 19,99 HT pour une capacité d’utilisation de 500 GO.
+
+
+<http://www.nddconline.org/31-combien-coute-un-nom-de-domaine>
+
+
+
 
 
 Quels sont les différents services d'emailing disponibles ?
