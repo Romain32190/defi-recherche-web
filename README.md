@@ -269,7 +269,7 @@ La Manifeste agile est un texte rédigé par 17 experts du développement d'appl
 Trouvez un screenshot de la première version de Facebook
 -
 
-![FACEBOOK]("http://blog.shareaholic.com/wp-content/uploads/2012/05/Facebook-Screenshot-2004.jpg")
+![FACEBOOK](http://blog.shareaholic.com/wp-content/uploads/2012/05/Facebook-Screenshot-2004.jpg "Facebook old version")
 
 
 Quelle est la répartition des systèmes d'exploitation pour les serveurs (uniquement) ?
@@ -278,6 +278,12 @@ Quelle est la répartition des systèmes d'exploitation pour les serveurs (uniqu
 
 
 Qu'est-ce que le load balancing ?
+-
+
+Le load balancing (répartition de charge en français) est une technique utilisée par les réseaux les plus importants afin d'équilibrer la sollicitation des serveurs.
+
+
+<http://www.dicodunet.com/definitions/reseaux/load-balancing.htm>
 
 
 
