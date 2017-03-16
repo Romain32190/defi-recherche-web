@@ -149,9 +149,13 @@ Richard Stallman est un programmeur et militant du logiciel libre. Initiateur du
 
 
 
-
 Comment fonctionnent les bang de Duck Duck Go ?
 -
+
+Les bangs de DuckDuckGo permet d'effctuer des requêtes redirigeant vers d'autres moteurs de recherche ou sites en tapant la commande correspondante appelé !bang.
+
+
+<https://fr.wikipedia.org/wiki/DuckDuckGo#.21Bang>
 
 
 Qui est Marissa Mayer ?
