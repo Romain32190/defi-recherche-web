@@ -441,12 +441,13 @@ https://www.indeed.fr/viewjob?jk=26a9e6d375e0130f&q=Developpeur+Junior&l=Toulous
 https://www.indeed.fr/viewjob?jk=723dd18a40727f7d&q=Developpeur+Junior&l=Toulouse+%2831%29&tk=1bbc6hvbm9ognb8j&from=web
 
 
-
-
-
 Qui est Tim Berners-Lee ?
 -
 
+Tim Bernes-Lee est un citoyen britannique, principal inventeur du World Wide Web (WWW) au tournant des années 1990.En juillet 2004, il est anobli par la reine Élisabeth II pour ce travail et son nom officiel devient Sir Timothy John Berners-Lee. Depuis 1994, il préside le World Wide Web Consortium (W3C), organisme qu'il a fondé.
+
+
+https://fr.wikipedia.org/wiki/Tim_Berners-Lee
 
 
 Comment sont reliés les différents réseaux d'internet ?
