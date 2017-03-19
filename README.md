@@ -463,7 +463,7 @@ Kisekae est le diminutif de kisekae ningyou, terme japonais signifiant « poupé
 
 https://fr.wikipedia.org/wiki/Kisekae_Set_System
 
-.
+
 
 
 
